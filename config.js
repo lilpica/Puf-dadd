@@ -38,10 +38,10 @@ module.exports = {
 
   nodes: [
     {
-        name: "LewdHuTao - Lavalink",
-        host: "node.lewdhutao.my.eu.org",
+        name: "AjieDev - Lavalink [Non SSL | US]",
+        host: "lava-v3.ajieblogs.eu.org",
         port: 80,
-        password: "youshallnotpass",
+        password: "https://dsc.gg/ajidevserver",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
