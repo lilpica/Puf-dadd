@@ -38,10 +38,10 @@ module.exports = {
 
   nodes: [
     {
-        name: "ChalresNaig Node",
-        host: "lavahatry4.techbyte.host",
-        port: 3000,
-        password: "NAIGLAVA-dash.techbyte.host",
+        name: "AjieDev - Lavalink [Non SSL]",
+        host: "lava-v3.ajieblogs.eu.org",
+        port: 80,
+        password: "https://dsc.gg/ajidevserver",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
