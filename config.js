@@ -38,7 +38,7 @@ module.exports = {
 
   nodes: [
     {
-        name: "AjieDev - Lavalink [Non SSL]",
+        name: "AjieDev - Lavalink ",
         host: "lava-v3.ajieblogs.eu.org",
         port: 80,
         password: "https://dsc.gg/ajidevserver",
