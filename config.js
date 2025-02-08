@@ -38,10 +38,10 @@ module.exports = {
 
   nodes: [
     {
-        name: "AjieDev - Lavalink ",
-        host: "lava-v3.ajieblogs.eu.org",
+        name: "Muzykant v3",
+        host: "lavalink_v3.muzykant.xyz",
         port: 80,
-        password: "https://dsc.gg/ajidevserver",
+        password: "https://discord.gg/v6sdrD9kPh",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
