@@ -38,10 +38,10 @@ module.exports = {
 
   nodes: [
     {
-        name: "Muzykant v3",
-        host: "lavalink_v3.muzykant.xyz",
-        port: 80,
-        password: "https://discord.gg/v6sdrD9kPh",
+        name: "INZEWORLD.COM (DE)",
+        host: "lava.inzeworld.com",
+        port: 3128,
+        password: "saher.inzeworld.com",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
